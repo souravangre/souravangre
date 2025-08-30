@@ -1,101 +1,86 @@
-
----
-
-# 👋 Hi, I am Sourav Angre
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=26\&pause=1000\&color=1E90FF\&width=600\&lines=Cloud+Computing+%7C+DevOps+Enthusiast;Passionate+about+System+Design+%26+Full+Stack+Apps;Exploring+AWS+%7C+Docker+%7C+Automation)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me
-
-* 💻 Passionate about **Cloud, DevOps & Backend Engineering**
-* 🌱 Currently pursuing **Cloud Trainee Internship (Jul–Dec 2025)**
-* 🎯 Focused on building **Flask/Django Apps, CI/CD pipelines, and AWS Projects**
-* 📈 Exploring **System Design & Deeper Architecture Concepts**
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Backend & Web
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Internshala Job Alert App
-
-A Flask-based automation system that scrapes **Internshala jobs**, stores them in CSV, and emails job alerts daily.
-
-* User login, registration, and job preference selection
-* Automated scraping and emailing with CRON jobs
-* Styled frontend with Flask templates
-
----
-
-### 🔹 VPC Lift-and-Shift Project (AWS)
-
-Designed and deployed a **3-tier architecture on AWS** as part of my cloud journey.
-
-* Flask app deployed in **Docker container on EC2**
-* MySQL database hosted on a separate EC2 instance
-* Media files stored in **Amazon S3**
-* DNS management with **Route 53**
-* Focused on **secure VPC setup, scalability, and cloud migration**
-
----
-
-### 🔹 Fitstore – Flask E-Commerce App
-
-A simple **Flask-based e-commerce application** with DevOps automation.
-
-* Features: Authentication, product listing, cart, order history
-* Implemented **CI/CD pipeline using Docker, Jenkins, GitHub, AWS**
-* Configured **Nginx + Gunicorn** for deployment
-* Emphasis on **cloud hosting & scalability**
-
----
-
-
----
-
-## 📫 Connect with Me
+# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Myself **Sourav Angre**
+=======================================================================================================================================
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourav-angre/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Backend+Developer+%7C+Flask+%26+Django;InternAlert+%7C+VPC+Project+%7C+Fitstore;Automate+%E2%80%A2+Scale+%E2%80%A2+Deploy" alt="Typing SVG" />
   </a>
-  <a href="mailto:souravangre@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>  
+</p>
+
+Cloud & DevOps Enthusiast | Backend Developer
+-----------------------------------------------
+
+1. 🎓 Engineering Student, currently a **Cloud Trainee Intern (Jul–Dec 2025)**  
+2. 💻 Building projects in **Flask, Django, and Node.js** with a focus on **DevOps & Cloud**  
+3. ☁️ Hands-on with **AWS, Docker, Jenkins, CI/CD pipelines**  
+4. 🛠️ Exploring **System Design, Advanced SQL & Automation**  
+5. ⚡ Believer of **Skills > Degree** 🚀
+
+* ✉️  You can contact me at [souravangre@gmail.com](mailto:souravangre@gmail.com)  
+* 🤝  I'm open to collaborating on **Cloud, Backend & DevOps projects**  
+* ⚡  Motto: *“Automate, Scale, Deploy”*
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🛠️ Skills:
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/amazonwebservices-colored.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="36" height="36" alt="Jenkins" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📌 Projects (this repository includes:)
+This repository includes the following projects: **InternAlert**, **VPC Project**, and **Fitstore**.
+
+- **Internshala Job Alert App (InternAlert)** 📨  
+  Flask-based automation system that scrapes Internshala job listings, saves them into CSV, and emails daily job reports.  
+  - Features: user registration & login, job preference form, scheduled scraping (CRON), email reports.
+
+- **VPC Lift-and-Shift Project (VPC Project)** ☁️  
+  Designed and deployed a **3-tier architecture on AWS**.  
+  - App: Flask app containerized with Docker and deployed to EC2.  
+  - DB: MySQL on a separate EC2 instance.  
+  - Storage: Media & static files on Amazon S3.  
+  - DNS: Route 53 for domain management.  
+  - Focus: Secure VPC architecture, migration strategy, and scalability.
+
+- **Fitstore – Flask E-Commerce App (Fitstore)** 🛒  
+  Simple e-commerce application built with Flask.  
+  - Features: User auth, product listing, cart, checkout & order history.  
+  - DevOps: CI/CD with Docker, Jenkins, GitHub workflows; Nginx + Gunicorn for production.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🌐 Socials:
+
+<a href="https://www.linkedin.com/in/sourav-angre/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="mailto:souravangre@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /></a>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📊 My GitHub Stats:
+
+<a href="http://www.github.com/sourav-angre"><img src="https://github-readme-stats.vercel.app/api?username=sourav-angre&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="sourav-angre's GitHub stats" /></a>
+
+<a href="http://www.github.com/sourav-angre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-angre&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![](https://visitcount.itsvg.in/api?id=sourav-angre&icon=0&color=0)](https://visitcount.itsvg.in)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+### ☕ Support Me
+
+<a href="https://www.buymeacoffee.com/souravangre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ---
-
-
