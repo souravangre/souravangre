@@ -1,23 +1,23 @@
-# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
 # Myself **Sourav Angre**
 
-<p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Backend+Developer+%7C+Flask+%26+Django;Automate+%E2%80%A2+Scale+%E2%80%A2+Deploy" alt="Typing SVG" />
   </a>
 </p>
---------------------------------------------------------------------------------------
 
+---
+
+### 👨‍🎓 About Me
 1. 🎓 Engineering Student   
 2. 💻 Building projects in **Flask, Django**, with a focus on **DevOps & Cloud**  
 3. ☁️ Exploring **AWS, Docker, Jenkins, CI/CD pipelines**  
 
-* ✉️  You can contact me at [souravangre17@gmail.com](mailto:souravangre17@gmail.com)  
-* 🤝  I'm open to collaborating on **Cloud, Backend & DevOps projects**  
+📧 Reach me at: [souravangre17@gmail.com](mailto:souravangre17@gmail.com)  
+🤝 Open to collaborations in **Cloud, Backend & DevOps projects**  
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 🛠️ Skills
+---
 
 ## 🛠️ Tech Stack  
 
@@ -52,29 +52,29 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### 📌Key Projects 
+## 📌 Key Projects  
 
 - **Internshala Job Alert App (InternAlert)** 📨  
   Flask-based automation system that scrapes Internshala job listings, saves them into CSV, and emails daily job reports.  
-  - Features: user registration & login, job preference form, scheduled scraping (CRON), email reports.
+  - Features: user registration & login, job preference form, scheduled scraping (CRON), email reports.  
 
 - **VPC Lift-and-Shift Project (VPC Project)** ☁️  
   Designed and deployed a **3-tier architecture on AWS**.  
   - App: Flask app containerized with Docker and deployed to EC2.  
   - DB: MySQL on a separate EC2 instance.  
-  - Storage: Media & static files on Amazon S3.  .  
-  - Focus: Secure VPC architecture, migration strategy, and scalability.
+  - Storage: Media & static files on Amazon S3.  
+  - Focus: Secure VPC architecture, migration strategy, and scalability.  
 
 - **Fitstore – Flask E-Commerce App (Fitstore)** 🛒  
   Simple e-commerce application built with Flask.  
   - Features: User auth, product listing, cart, checkout & order history.  
-  - DevOps: CI/CD with Docker, Jenkins, GitHub workflows; Nginx + Gunicorn for production.
+  - DevOps: CI/CD with Docker, Jenkins, GitHub workflows; Nginx + Gunicorn for production.  
 
--------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-### 🌐 Socials:
+### 🌐 Socials  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sourav-angre/">
@@ -83,4 +83,4 @@
   <a href="mailto:souravangre17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p> 
+</p>
