@@ -1,5 +1,4 @@
-# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Myself **Sourav Angre**
-=======================================================================================================================================
+# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am  **Sourav Angre**
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,15 +9,12 @@
 Cloud & DevOps Enthusiast | Backend Developer
 -----------------------------------------------
 
-1. 🎓 Engineering Student, currently a **Cloud Trainee Intern (Jul–Dec 2025)**  
-2. 💻 Building projects in **Flask, Django, and Node.js** with a focus on **DevOps & Cloud**  
-3. ☁️ Hands-on with **AWS, Docker, Jenkins, CI/CD pipelines**  
-4. 🛠️ Exploring **System Design, Advanced SQL & Automation**  
-5. ⚡ Believer of **Skills > Degree** 🚀
+1. 🎓 Engineering Student   
+2. 💻 Building projects in **Flask, Django**, with a focus on **DevOps & Cloud**  
+3. ☁️ Exploring **AWS, Docker, Jenkins, CI/CD pipelines**  
 
-* ✉️  You can contact me at [souravangre@gmail.com](mailto:souravangre@gmail.com)  
+* ✉️  You can contact me at [souravangre17@gmail.com](mailto:souravangre17@gmail.com)  
 * 🤝  I'm open to collaborating on **Cloud, Backend & DevOps projects**  
-* ⚡  Motto: *“Automate, Scale, Deploy”*
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,8 +36,7 @@ Cloud & DevOps Enthusiast | Backend Developer
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-### 📌 Projects (this repository includes:)
-This repository includes the following projects: **InternAlert**, **VPC Project**, and **Fitstore**.
+### 📌Key Projects 
 
 - **Internshala Job Alert App (InternAlert)** 📨  
   Flask-based automation system that scrapes Internshala job listings, saves them into CSV, and emails daily job reports.  
@@ -51,8 +46,7 @@ This repository includes the following projects: **InternAlert**, **VPC Project*
   Designed and deployed a **3-tier architecture on AWS**.  
   - App: Flask app containerized with Docker and deployed to EC2.  
   - DB: MySQL on a separate EC2 instance.  
-  - Storage: Media & static files on Amazon S3.  
-  - DNS: Route 53 for domain management.  
+  - Storage: Media & static files on Amazon S3.  .  
   - Focus: Secure VPC architecture, migration strategy, and scalability.
 
 - **Fitstore – Flask E-Commerce App (Fitstore)** 🛒  
@@ -65,22 +59,4 @@ This repository includes the following projects: **InternAlert**, **VPC Project*
 ### 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/sourav-angre/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="mailto:souravangre@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /></a>
-
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-### 📊 My GitHub Stats:
-
-<a href="http://www.github.com/sourav-angre"><img src="https://github-readme-stats.vercel.app/api?username=sourav-angre&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="sourav-angre's GitHub stats" /></a>
-
-<a href="http://www.github.com/sourav-angre"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-angre&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![](https://visitcount.itsvg.in/api?id=sourav-angre&icon=0&color=0)](https://visitcount.itsvg.in)
-
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### ☕ Support Me
-
-<a href="https://www.buymeacoffee.com/souravangre"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
----
+<a href="mailto:souravangre17@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /></a>
