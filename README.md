@@ -1,12 +1,13 @@
 # Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-Myself **Sourav Angre**
+# Myself **Sourav Angre**
 
 <p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Backend+Developer+%7C+Flask+%26+Django;Automate+%E2%80%A2+Scale+%E2%80%A2+Deploy" alt="Typing SVG" />
   </a>
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+
 1. 🎓 Engineering Student   
 2. 💻 Building projects in **Flask, Django**, with a focus on **DevOps & Cloud**  
 3. ☁️ Exploring **AWS, Docker, Jenkins, CI/CD pipelines**  
