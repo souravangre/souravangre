@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Backend+Developer+%7C+Flask+%26+Django;Automate+%E2%80%A2+Scale+%E2%80%A2+Deploy" alt="Typing SVG" />
   </a>
 </p>
-
-Cloud & DevOps Enthusiast | Backend Developer
 -----------------------------------------------
 
 1. 🎓 Engineering Student   
@@ -20,35 +18,38 @@ Cloud & DevOps Enthusiast | Backend Developer
 
 ### 🛠️ Skills
 
-#### 💻 Programming & Scripting
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack  
 
-#### ☁️ Cloud (AWS)
+### 💻 Programming & Scripting  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/aws-ec2-icon-512x512-5v7z1v8t.png" alt="ec2" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-s3-simple-storage-service.svg" alt="s3" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-rds-3521273-2944726.png" alt="rds" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-vpc-283111.png" alt="vpc" width="40" height="40"/>
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>  
 
-#### 🗄️ Databases & Tools
+### ☁️ Cloud  
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/sqlite.png" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/console.png" alt="shell" width="40" height="40"/>
-</p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-%23FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auto_Scaling-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ALB-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>  
 
+### 🗄️ Databases & Tools  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
