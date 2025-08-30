@@ -82,19 +82,6 @@ A simple **Flask-based e-commerce application** with DevOps automation.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sourav-angre&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="GitHub Stats" height="160"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sourav-angre&theme=radical" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sourav-angre&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
 
 ---
 
@@ -108,10 +95,6 @@ A simple **Flask-based e-commerce application** with DevOps automation.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>  
-
----
-
-👁️ ![Profile Views](https://komarev.com/ghpvc/?username=sourav-angre\&color=blue\&style=flat)
 
 ---
 
