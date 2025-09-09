@@ -1,5 +1,5 @@
 # Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-# Myself **Sourav Angre**
+# I'm **Sourav Angre**
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -9,10 +9,10 @@
 
 ---
 
-### 👨‍🎓 About Me
-1. 🎓 Engineering Student   
-2. 💻 Building projects in **Flask, Django**, with a focus on **DevOps & Cloud**  
-3. ☁️ Exploring **AWS, Docker, Jenkins, CI/CD pipelines**  
+### 👨‍💻 About Me
+I am an engineering student passionate about **Cloud, Backend Development, and DevOps**. I enjoy building projects using **Flask** and **Django**, and exploring **AWS, Docker, Jenkins, and CI/CD pipelines**.  
+
+Check out my portfolio here: [Sourav's Portfolio](https://your-portfolio-link.com)  
 
 📧 Reach me at: [souravangre17@gmail.com](mailto:souravangre17@gmail.com)  
 🤝 Open to collaborations in **Cloud, Backend & DevOps projects**  
@@ -52,9 +52,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
 ### 🌐 Socials  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sourav-angre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
