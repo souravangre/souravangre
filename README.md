@@ -52,27 +52,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
-
-## 📌 Key Projects  
-
-- **Internshala Job Alert App (InternAlert)** 📨  
-  Flask-based automation system that scrapes Internshala job listings, saves them into CSV, and emails daily job reports.  
-  - Features: user registration & login, job preference form, scheduled scraping (CRON), email reports.  
-
-- **VPC Lift-and-Shift Project (VPC Project)** ☁️  
-  Designed and deployed a **3-tier architecture on AWS**.  
-  - App: Flask app containerized with Docker and deployed to EC2.  
-  - DB: MySQL on a separate EC2 instance.  
-  - Storage: Media & static files on Amazon S3.  
-  - Focus: Secure VPC architecture, migration strategy, and scalability.  
-
-- **Fitstore – Flask E-Commerce App (Fitstore)** 🛒  
-  Simple e-commerce application built with Flask.  
-  - Features: User auth, product listing, cart, checkout & order history.  
-  - DevOps: CI/CD with Docker, Jenkins, GitHub workflows; Nginx + Gunicorn for production.  
-
----
 
 ### 🌐 Socials  
 
