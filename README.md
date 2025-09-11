@@ -69,6 +69,18 @@ Check out my portfolio here: [🌐 Sourav.me](https://sourav-angre-portfolio.ver
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SouravAngre&show_icons=true&theme=tokyonight" width="350"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravAngre&layout=compact&theme=tokyonight" width="350"/>
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🌐 Socials  
 <p>
   <a href="https://www.linkedin.com/in/sourav-angre/">
@@ -77,15 +89,4 @@ Check out my portfolio here: [🌐 Sourav.me](https://sourav-angre-portfolio.ver
   <a href="mailto:souravangre17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>  
-
-</td>
-<td width="40%" align="center">
-
-<img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
-
-</td>
-</tr>
-</table>
-
----
+</p>
