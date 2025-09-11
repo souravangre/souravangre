@@ -5,17 +5,30 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Backend+Developer+%7C+Flask+%26+Django;Automate+%E2%80%A2+Scale+%E2%80%A2+Deploy" alt="Typing SVG" />
   </a>
 </p>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 ---
 
-### 👨‍💻 About Me
-I am an engineering student passionate about **Cloud, Backend Development, and DevOps**. I enjoy building projects using **Flask** and **Django**, and exploring **AWS, Docker, Jenkins, and CI/CD pipelines**.  
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Check out my portfolio here: [🌐Sourav.me](https://sourav-angre-portfolio.vercel.app/)  
+### 👨‍💻 About Me  
+I am an engineering student passionate about **Cloud, Backend Development, and DevOps**.  
+I enjoy building projects using **Flask** and **Django**, and exploring **AWS, Docker, Jenkins, and CI/CD pipelines**.  
+
+Check out my portfolio here: [🌐 Sourav.me](https://sourav-angre-portfolio.vercel.app/)  
 
 📧 Reach me at: [souravangre17@gmail.com](mailto:souravangre17@gmail.com)  
 🤝 Open to collaborations in **Cloud, Backend & DevOps projects**  
+
+</td>
+<td width="40%" align="center">
+
+<img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,7 +66,7 @@ Check out my portfolio here: [🌐Sourav.me](https://sourav-angre-portfolio.verc
 </p>
 
 ### 🌐 Socials  
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/sourav-angre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
