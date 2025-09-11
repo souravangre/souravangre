@@ -1,12 +1,11 @@
-# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-<div class="tenor-gif-embed" data-postid="7933003135340137862" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862">Tux Linux Tux Sticker</a>from <a href="https://tenor.com/search/tux-stickers">Tux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-# I'm **Sourav Angre**
+# Hello! 👋 I'm Sourav Angre  
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Backend+Developer+%7C+Flask+%26+Django;Automate+%E2%80%A2+Scale+%E2%80%A2+Deploy" alt="Typing SVG" />
   </a>
 </p>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 ---
 
