@@ -34,6 +34,10 @@ Check out my portfolio here: [🌐 Sourav.me](https://sourav-angre-portfolio.ver
 
 ## 🛠️ Tech Stack  
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 💻 Programming & Scripting  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -73,4 +77,15 @@ Check out my portfolio here: [🌐 Sourav.me](https://sourav-angre-portfolio.ver
   <a href="mailto:souravangre17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p>  
+
+</td>
+<td width="40%" align="center">
+
+<img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
+
+</td>
+</tr>
+</table>
+
+---
