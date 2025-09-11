@@ -1,5 +1,5 @@
 # Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/jCboW2RhykcAAAAC/hello-wave.gif"/> 
+<img align="right" alt="Coding" width="250" src="https://tenor.com/en-IN/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862"/> 
 # I'm **Sourav Angre**
 
 <p align="center">
