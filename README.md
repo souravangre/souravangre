@@ -1,4 +1,5 @@
 # Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/jCboW2RhykcAAAAC/hello-wave.gif"/> 
 # I'm **Sourav Angre**
 
 <p align="center">
@@ -16,7 +17,7 @@ Check out my portfolio here: [🌐Sourav.me](https://sourav-angre-portfolio.verc
 
 📧 Reach me at: [souravangre17@gmail.com](mailto:souravangre17@gmail.com)  
 🤝 Open to collaborations in **Cloud, Backend & DevOps projects**  
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJieXV0NmgzM25yeXo3eHJjcjZwMWhqd3hoM29jcnNxNHkyamloNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 ---
 
 ## 🛠️ Tech Stack  
