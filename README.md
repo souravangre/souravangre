@@ -16,7 +16,7 @@ Check out my portfolio here: [🌐Sourav.me](https://sourav-angre-portfolio.verc
 
 📧 Reach me at: [souravangre17@gmail.com](mailto:souravangre17@gmail.com)  
 🤝 Open to collaborations in **Cloud, Backend & DevOps projects**  
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJieXV0NmgzM25yeXo3eHJjcjZwMWhqd3hoM29jcnNxNHkyamloNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
 ---
 
 ## 🛠️ Tech Stack  
